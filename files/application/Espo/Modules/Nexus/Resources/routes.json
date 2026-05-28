@@ -1,0 +1,58 @@
+[
+    {
+        "route": "/nexus/health",
+        "method": "get",
+        "params": {
+            "controller": "NexusGateway",
+            "action": "health"
+        }
+    },
+    {
+        "route": "/nexus/settings",
+        "method": "get",
+        "params": {
+            "controller": "NexusGateway",
+            "action": "settings"
+        }
+    },
+    {
+        "route": "/nexus/settings",
+        "method": "put",
+        "params": {
+            "controller": "NexusGateway",
+            "action": "settings"
+        }
+    },
+    {
+        "route": "/nexus/chat",
+        "method": "post",
+        "params": {
+            "controller": "NexusGateway",
+            "action": "chat"
+        }
+    },
+    {
+        "route": "/nexus/submit",
+        "method": "post",
+        "params": {
+            "controller": "NexusGateway",
+            "action": "submit"
+        }
+    },
+    {
+        "route": "/nexus/status/:jobId",
+        "method": "get",
+        "params": {
+            "controller": "NexusGateway",
+            "action": "status"
+        }
+    },
+    {
+        "route": "/nexus/result/:jobId",
+        "method": "get",
+        "params": {
+            "controller": "NexusGateway",
+            "action": "result"
+        }
+    }
+]

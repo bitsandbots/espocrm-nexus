@@ -1,0 +1,11 @@
+{
+    "labels": {
+        "NEXUS Assistant": "NEXUS Assistant",
+        "NEXUS Settings": "NEXUS Settings",
+        "NEXUS Integration": "NEXUS Integration"
+    },
+    "messages": {
+        "nexusUnreachable": "NEXUS is unreachable. Check Admin > NEXUS Settings.",
+        "nexusDisabled": "NEXUS integration is disabled. Enable it in Admin > NEXUS Settings."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "sidePanels": {
+        "detail": [
+            "__APPEND__",
+            {
+                "name": "nexusAssistant",
+                "label": "NEXUS Assistant",
+                "view": "nexus:views/panels/nexus-assistant",
+                "order": 100
+            }
+        ]
+    }
+}

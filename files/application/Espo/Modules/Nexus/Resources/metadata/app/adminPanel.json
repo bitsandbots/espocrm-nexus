@@ -1,0 +1,16 @@
+{
+    "nexus": {
+        "label": "NEXUS Integration",
+        "iconClass": "fas fa-brain",
+        "order": 50,
+        "itemList": [
+            {
+                "url": "#Admin/nexusSettings",
+                "label": "NEXUS Settings",
+                "description": "Configure NEXUS AI platform connection, credentials, and RAG ingestion.",
+                "iconClass": "fas fa-cog",
+                "view": "nexus:views/admin/nexus-settings"
+            }
+        ]
+    }
+}

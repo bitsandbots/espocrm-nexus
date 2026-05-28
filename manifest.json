@@ -1,0 +1,10 @@
+{
+    "name": "NexusIntegration",
+    "version": "1.0.0",
+    "acceptableVersions": [">=7.0.0"],
+    "releaseDate": "2026-05-28",
+    "author": "CoreConduit Consulting Services",
+    "description": "Integrates EspoCRM with the NEXUS AI platform (potpie.local) — AI assistant panels on records, automatic RAG knowledge ingestion, and LLM queue job support.",
+    "license": "MIT",
+    "php": ">=8.1"
+}

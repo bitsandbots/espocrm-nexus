@@ -1,0 +1,6 @@
+{
+    "NexusQueuePoller": {
+        "label": "NEXUS Queue Poller",
+        "scheduling": "*/5 * * * *"
+    }
+}
